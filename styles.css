@@ -1,0 +1,28 @@
+body{
+    background-color: lightsteelblue;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+a {
+
+    color:blueviolet;
+    font-weight: bold;
+}
+
+
+a:visited{
+    color: purple;
+}
+
+li{
+    list-style: square;
+    text-align: center;
+    line-height: 1.8;
+}
+
+
